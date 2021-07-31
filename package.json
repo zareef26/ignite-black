@@ -1,0 +1,21 @@
+{
+    "name": "ignite-black",
+    "displayName": "Ignite Black",
+    "description": "A dark premium black theme for Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ignite Black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ignite Black-color-theme.json"
+            }
+        ]
+    }
+}
