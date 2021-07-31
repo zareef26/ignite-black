@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#292d36",
-		"editor.background": "#090909",
+		"editor.background": "#101010",
 		"editor.foreground": "#eeffff",
 		"foreground": "#a0a8bd",
 		"selection.background": "#c3c3c3",
@@ -65,7 +65,7 @@
 		"activityBarBadge.background": "#a4bd00",
         "activityBarBadge.foreground": "#0a0e14",
         
-		"sideBar.background": "#101010",
+		"sideBar.background": "#060606",
 		"sideBar.foreground": "#a8aebd",
 		"sideBar.border": "#0a0a0a",
 		"sideBarTitle.foreground": "#a4bd00",
@@ -302,6 +302,43 @@
 				"foreground": "#ff7b00"
 			}
 		},
+		{
+			"name": "variable.js",
+			"scope": [
+				"variable.other.object.js"
+			],
+			"settings": {
+				"foreground": "#ff7b00"
+			}
+		},
+		{
+			"name": "variable.other.property.js",
+			"scope": [
+				"variable.other.property.js"
+			],
+			"settings": {
+				"foreground": "#00c3ff"
+			}
+		},
+		{
+			"name": "variable.other.object.property.js",
+			"scope": [
+				"variable.other.object.property.js"
+			],
+			"settings": {
+				"foreground": "#ffe600"
+			}
+		},
+		{
+			"name": "variable.other.readwrite.js",
+			"scope": [
+				"variable.other.readwrite.js"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#ff0000"
+			}
+		},
 		// "meta.object.member.js",
 		// "meta.objectliteral.js",
 		// "meta.block.js",
@@ -323,7 +360,7 @@
 				"keyword"
 			],
 			"settings": {
-				"foreground": "#ff0000"
+				"foreground": "#ff6464"
 			}
 		},
 		{
@@ -332,7 +369,7 @@
 				"keyword.operator"
 			],
 			"settings": {
-				"foreground": "#ff6600"
+				"foreground": "#4affab"
 			}
 		},
 		{
