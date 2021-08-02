@@ -3,8 +3,18 @@
     "displayName": "Ignite Black",
     "description": "A dark premium black theme for Visual Studio Code.",
     "version": "0.0.1",
+    "author": {
+        "name": "Adnan Zareef",
+        "email": "adnanzareef@outlook.com",
+        "url": "https://www.facebook.com/AdnanZareef26/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://www.github.com/zareef26/ignite-black"
+    },
+    "publisher": "Noob_Coder",
     "engines": {
-        "vscode": "^1.58.0"
+        "vscode": "^1.0.0"
     },
     "categories": [
         "Themes"
