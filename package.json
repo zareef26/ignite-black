@@ -12,7 +12,7 @@
         "type": "git",
         "url": "https://www.github.com/zareef26/ignite-black"
     },
-    "publisher": "Noob_Coder",
+    "publisher": "AdnanZareef",
     "engines": {
         "vscode": "^1.0.0"
     },
