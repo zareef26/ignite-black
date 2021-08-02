@@ -1,6 +1,9 @@
 # Change Log
 
-## [ Unreleased ]
+## [ Released ]
 
 - v0.1 [Beta preview]
-Beta release
+Initial Beta release
+
+- v0.2 [Beta preview]
+New theme & split : Ignite black-green, Ignite black-blue, Ignite black-yellow

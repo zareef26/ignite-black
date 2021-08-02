@@ -22,9 +22,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Ignite Black",
+                "label": "Ignite Black-Green",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Ignite Black-color-theme.json"
+                "path": "./themes/Ignite Black-Green-color-theme.json"
+            },
+            {
+                "label": "Ignite Black-Blue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ignite Black-Blue-color-theme.json"
+            },
+            {
+                "label": "Ignite Black-Yellow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ignite Black-Yellow-color-theme.json"
             }
         ]
     }
